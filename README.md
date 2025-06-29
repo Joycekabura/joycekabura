@@ -18,6 +18,15 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- 🗺️ [Incident Reporter (Flutter + Laravel)](https://github.com/Joycekabura/hali)  
+  A mobile-first app for reporting and visualizing city hazards like floods and fires — built to support more responsive cities.
+
+- 🏥 [Urban Facilities Accessibility API (Laravel + Leaflet)](https://github.com/Joycekabura/sdg11-urban-dashboard)  
+  A spatial backend API with buffer analysis to evaluate whether essential facilities like hospital and schools meet the accessibility thresholds.
+---
+
 🤝 I’m open to:
 - Collaborations that intersect **urban planning, geospatial tech, and sustainability**
 - Projects that help build **climate-aware**, **disaster-resilient** cities
